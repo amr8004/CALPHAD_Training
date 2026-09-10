@@ -3,7 +3,7 @@
   "customizations": {
     "codespaces": {
       "openFiles": [
-        "examples/README.md"
+        "README.md"
       ]
     },
     "vscode": {
@@ -22,5 +22,4 @@
       "memory": "16gb",
       "storage": "16gb"
   },
-  "onCreateCommand": "chmod +x .devcontainer/post-create.sh && .devcontainer/post-create.sh"
 }
